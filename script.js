@@ -8,36 +8,63 @@ const perguntas = [
   {
     enunciado:"você nasceu em Curitiba?";
     alternativas: [
-      "sim",
-      "não",
-  ]
+  {
+    texto: "sim",
+    afirmação: "afirmação",
+  }
+  {
+    texto: "não",
+    afirmação: "afirmação"
+    },
+    ]  
 },                                            
   {
     enunciado:"você gosta de frio?";
     alternativas: [
-      "sim",
-      "não",
-  ]
-},                                            
+  {
+    texto: "sim",
+    afirmação: "afirmação",
+  }
+  {
+    texto: "não",
+    afirmação: "afirmação"
+    },
+    ]  
+},                                                    
   {
     enunciado:"qual sua estação do ano favorita?";
     alternativas: [
-      "inverno",
-      "verão",
+      {
+      texto: "inverno",
+      afirmação: "afirmação",
+      }
+      {
+      texto: "verão",
+      afirmação: "afirmação",
   ]
 },                                            
   {
     enunciado:"você moraria no alaska?";
     alternativas: [
-      "Alternativa1",
-      "Alternativa2",
+      {
+      texto: "sim",
+      afirmação: "afirmação",
+      }
+      {
+      texto: "não"
+      afirmação: "afirmação"
   ]
 },                                            
   {
     enunciado:"você moraria no deserto?";
     alternativas: [
-      "Alternativa1",
-      "Alternativa2",
+      {
+      texto: "sim",
+      afirmação: "afirmação",
+      }
+      {
+      texto: "não",
+      afirmação: "afirmação",
     ]
   },                                            
 ];
