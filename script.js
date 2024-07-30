@@ -10,8 +10,8 @@ const perguntas = [
     alternativas: [
   {
     texto: "sim",
-    afirmação: "afirmação",
-  }
+    afirmação: "afirmação"
+  },
   {
     texto: "não",
     afirmação: "afirmação"
